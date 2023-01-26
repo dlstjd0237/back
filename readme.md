@@ -28,7 +28,3 @@
 
 
 
-<div align="center">
-	<img src="https://img.shields.io/badge/수고하셧습니다.-007396?style=flat&logo=수고하셧습니다&logoColor=white" />
-	
-</div>
